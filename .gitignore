@@ -1,0 +1,12 @@
+*.png
+*.csv
+*.xlsx
+*.spec
+*.svg
+*.mp4
+*.ipynb
+*.exe
+.vscode/
+**/build/
+__pycache__
+

@@ -1,4 +1,4 @@
-*.png
+
 *.csv
 *.xlsx
 *.spec
@@ -6,7 +6,6 @@
 *.mp4
 *.ipynb
 *.exe
-*.glb
 .vscode/
 **/build/
 __pycache__
